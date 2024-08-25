@@ -1,0 +1,6 @@
+This is the first line.
+Here is a number: 42
+This is the third line.
+Appending a fourth line.
+Another number: 123
+This is the last line.
